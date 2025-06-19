@@ -6,7 +6,9 @@ them.
 Libraries needed:
 
 numpy
+
 matplotlib
+
 scipy
 
 The code will produce results as it the seed is set to do so.
