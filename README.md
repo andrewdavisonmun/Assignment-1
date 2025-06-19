@@ -3,6 +3,9 @@
 This experiment explores different algorithms and the effect of change on 
 them.
 
+To run: download the code and run the file on and IDE or through the shell. Ensure libraries are downloaded.
+
+
 Libraries needed:
 
 numpy
